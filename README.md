@@ -14,3 +14,4 @@ python pypass.py
 - Offline
 - AES 256 Encrypted database
 
+### Other people involved - Tushar Abir, Sambeet Pani
