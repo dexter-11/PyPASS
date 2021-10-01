@@ -11,7 +11,7 @@ python pypass.py
 ```
 
 ## Features:
-- Very less requirements
+- Minimal requirements
 - User-friendly GUI
 - Offline
 - AES 256 Encrypted database
