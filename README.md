@@ -28,14 +28,17 @@ python3 pypass.py
   - Time-based OTP verification (Google Authenticator compatible)
   - *NEW* Hand Gesture-based 2-factor authentication
 
-#### Other people involved - Tushar Abir, Sambeet Pani, Devyansh Singh
+#### Other people involved
+Tushar Abir, Sambeet Pani, Devyansh Singh
 - - -
 ## Preview:
-<img src="./app_preview/Createmaster-1.png" width="320" alt="CreateMaster"/>
-<img src="./app_preview/Createmaster-GA.png" width="320" alt="CreateGbA"/>
-<img src="./app_preview/Createmaster-2FA.png" width="320" alt="CreateOTP"/>
-<img src="./app_preview/Login-2FA-2.png" width="320" alt="LoginOTP"/>
-<img src="./app_preview/Login-GA-3.png" width="320" alt="LoginGbA"/>
-<img src="./app_preview/mainmenu.png" width="320" alt="Mainmenu"/>
-<img src="./app_preview/Createpass.png" width="320" alt="Createpass"/>
-For more, check out the [ App Preview ](https://github.com/dexter-11/PyPASS/tree/main/app_preview)
+<p float="center">
+  <img src="./app_preview/Createmaster-1.png" width="320" alt="CreateMaster"/>
+  <img src="./app_preview/Createmaster-GA.png" width="320" alt="CreateGbA"/>
+  <img src="./app_preview/Createmaster-2FA.png" width="320" alt="CreateOTP"/>
+  <img src="./app_preview/Login-2FA-2.png" width="320" alt="LoginOTP"/>
+  <img src="./app_preview/Login-GA-3.png" width="640" alt="LoginGbA"/>
+  <img src="./app_preview/mainmenu.png" width="320" alt="Mainmenu"/>
+  <img src="./app_preview/Createpass.png" width="320" alt="Createpass"/>
+</p>
+For more, check out the [App Preview](https://github.com/dexter-11/PyPASS/tree/main/app_preview)
