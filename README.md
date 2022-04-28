@@ -20,7 +20,7 @@ python3 pypass.py
 ```
 
 ## Features:
-- Completely offline
+- Completely offline and Python-based
 - User-friendly GUI now with Dark elements
 - In-built Password strength analyzer and Random password generator
 - AES 256 Encrypted database
@@ -41,5 +41,7 @@ Tushar Abir, Sambeet Pani, Devyansh Singh
   <img src="./app_preview/mainmenu.png" width="320" alt="Mainmenu"/>
   <img src="./app_preview/Createpass.png" width="320" alt="Createpass"/>
 </p>
+
 For more, check out the [ App Preview ](https://github.com/dexter-11/PyPASS/tree/main/app_preview)
+
 - - -
