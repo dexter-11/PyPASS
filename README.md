@@ -1,9 +1,9 @@
 # PyPASS Desktop Password Manager v2 (2022)
 
-### Read about the Project [ here ](https://github.com/dexter-11/PyPASS/blob/main/About%20PyPASS.pdf)
-### Read about the latest improvements [ here ](https://github.com/dexter-11/PyPASS/blob/main/About_PyPASS_2022-Updated.pdf)
+#### Read about the Project [ here ](https://github.com/dexter-11/PyPASS/blob/main/About%20PyPASS.pdf)
+#### Read about the latest improvements [ here ](https://github.com/dexter-11/PyPASS/blob/main/About_PyPASS_2022-Updated.pdf)
 
-### Installation:
+## Installation:
 Python > 3.7 required.
 
 ```bash
@@ -20,12 +20,12 @@ python3 pypass.py
 ```
 
 ## Features:
-- Minimal requirements
+- Completely offline
 - User-friendly GUI now with Dark elements
-- Offline
+- In-built Password strength analyzer and Random password generator
 - AES 256 Encrypted database
 - Now with 2FA integration enabled:
   - Time-based OTP verification (Google Authenticator compatible)
   - *NEW* Hand Gesture-based 2-factor authentication
 
-#### Other people involved - Tushar Abir, Sambeet Pani, Devyansh Singh
+##### Other people involved - Tushar Abir, Sambeet Pani, Devyansh Singh
