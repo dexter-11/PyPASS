@@ -2,7 +2,7 @@
 
 #### Read about the Project [ here ](https://github.com/dexter-11/PyPASS/blob/main/About%20PyPASS.pdf)
 #### Read about the latest improvements [ here ](https://github.com/dexter-11/PyPASS/blob/main/About_PyPASS_2022-Updated.pdf)
-#### Project [ Documentation ](https://github.com/dexter-11/PyPASS/blob/main/Dcoumentation_PyPASSv2.pdf)
+#### Project [ Documentation ](https://github.com/dexter-11/PyPASS/blob/main/Documentation_PyPASSv2.pdf)
 
 ## Installation:
 Python > 3.7 required.
