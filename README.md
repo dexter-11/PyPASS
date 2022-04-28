@@ -32,13 +32,14 @@ python3 pypass.py
 Tushar Abir, Sambeet Pani, Devyansh Singh
 - - -
 ## Preview:
-<p float="center">
+<p float="left">
   <img src="./app_preview/Createmaster-1.png" width="320" alt="CreateMaster"/>
   <img src="./app_preview/Createmaster-GA.png" width="320" alt="CreateGbA"/>
   <img src="./app_preview/Createmaster-2FA.png" width="320" alt="CreateOTP"/>
-  <img src="./app_preview/Login-2FA-2.png" width="320" alt="LoginOTP"/>
+  <img src="./app_preview/Login-2FA-2.png" width="300" alt="LoginOTP"/>
   <img src="./app_preview/Login-GA-3.png" width="640" alt="LoginGbA"/>
   <img src="./app_preview/mainmenu.png" width="320" alt="Mainmenu"/>
   <img src="./app_preview/Createpass.png" width="320" alt="Createpass"/>
 </p>
-For more, check out the [App Preview](https://github.com/dexter-11/PyPASS/tree/main/app_preview)
+For more, check out the [ App Preview ](https://github.com/dexter-11/PyPASS/tree/main/app_preview)
+- - -
