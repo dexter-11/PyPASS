@@ -29,3 +29,13 @@ python3 pypass.py
   - *NEW* Hand Gesture-based 2-factor authentication
 
 ##### Other people involved - Tushar Abir, Sambeet Pani, Devyansh Singh
+
+## Preview:
+![CreateMaster](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Createmaster-1.png)
+![CreateGbA](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Createmaster-GA.png)
+![CreateOTP](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Createmaster-2FA.png)
+![LoginOTP](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Login-2FA-2.png)
+![LoginGbA](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Login-GA-3.png)
+![Mainmenu](https://github.com/dexter-11/PyPASS/blob/main/app_preview/mainmenu.png)
+![Createpass](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Createpass.png)
+For more, check out the [ App Preview ](https://github.com/dexter-11/PyPASS/tree/main/app_preview)
