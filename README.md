@@ -6,7 +6,7 @@
 ### Installation:
 Python > 3.7 required.
 
-```powershell
+```bash
 python -m venv project_env --system-site-packages
 
 # USE PYTHON VIRTUAL ENV FOR THE PROJECT TESTING (Recommended)
