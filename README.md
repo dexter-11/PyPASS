@@ -31,6 +31,10 @@ python3 pypass.py
 ##### Other people involved - Tushar Abir, Sambeet Pani, Devyansh Singh
 
 ## Preview:
+<img src="./app_preview/Createmaster-1.png" width="160"/>
+
+- - -
+
 ![CreateMaster](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Createmaster-1.png)
 ![CreateGbA](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Createmaster-GA.png)
 ![CreateOTP](https://github.com/dexter-11/PyPASS/blob/main/app_preview/Createmaster-2FA.png)
