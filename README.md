@@ -31,6 +31,7 @@ python3 pypass.py
 #### Other people involved
 Tushar Abir, [ Sambeet Pani ](https://github.com/theskp), [ Devyansh Singh ](https://github.com/DevDnoC)
 - - -
+## How to use? (Will be updated soon)
 ## Preview:
 <p float="left">
   <img src="./app_preview/Createmaster-1.png" width="320" alt="CreateMaster"/>
