@@ -1,7 +1,7 @@
 secout = 360
 encoding = "UTF-8"
 language = "English"
-key = b'\x7fv\xd5\xcd\x9f\x17Rr_\xdc\x07\xd6\r\xf2U\xab'
+key = ""
 rand = "SuCAabc1234!?$*&()'-=@~"
 # --------------------------------------------------------------------#
 filename = 'pwdmng.aes'
@@ -11,12 +11,12 @@ bufferSize = 64 * 180024
 ver = "1.0.0"
 #---forGestureAuth----------------------------------------------------#
 useGesture_for_login = False
-set_gesture1 = "Okay"
-set_gesture2 = "Thumbs up"
-set_gesture3 = "Rock"
+set_gesture1 = ""
+set_gesture2 = ""
+set_gesture3 = ""
 correctGest_count = 0
 #---for2FA-----------------------------------------------------------#
-secret = "MHKDXHRZFEV7KY6L"
+secret = ""
 
 ### Dex : 123
 # Crimson Red - 220,20,60
