@@ -28,10 +28,10 @@ python3 pypass.py
   - Time-based OTP verification (Google Authenticator compatible)
   - *NEW* Hand Gesture-based 2-factor authentication
 
-#### Other people involved
-Tushar Abir, [ Sambeet Pani ](https://github.com/theskp), [ Devyansh Singh ](https://github.com/DevDnoC)
+### People involved
+[ Saket Pandey ](https://github.com/dexter-11), Tushar Abir, [ Sambeet Pani ](https://github.com/theskp), [ Devyansh Singh ](https://github.com/DevDnoC)
 
-#### Reference
+#### Other references
 TechVidian's [ tutorial ](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)
 - - -
 ## How to use? (Will be updated soon)
