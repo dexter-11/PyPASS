@@ -30,6 +30,9 @@ python3 pypass.py
 
 #### Other people involved
 Tushar Abir, [ Sambeet Pani ](https://github.com/theskp), [ Devyansh Singh ](https://github.com/DevDnoC)
+
+#### Reference
+TechVidian's Real-time Hand Gesture Recognition [ tutorial ](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)
 - - -
 ## How to use? (Will be updated soon)
 ## Preview:
