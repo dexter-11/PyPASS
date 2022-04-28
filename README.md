@@ -29,7 +29,7 @@ python3 pypass.py
   - *NEW* Hand Gesture-based 2-factor authentication
 
 #### Other people involved
-Tushar Abir, Sambeet Pani, Devyansh Singh
+Tushar Abir, [ Sambeet Pani ](https://github.com/theskp), [ Devyansh Singh ](https://github.com/DevDnoC)
 - - -
 ## Preview:
 <p float="left">
